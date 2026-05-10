@@ -12,9 +12,4 @@ Carte numérique personnelle conçue pour le networking professionnel، optimis�
 - 🗄️ **SQL** (Database Management)
 - 🌐 **Web Development** (HTML/CSS)
 
-### 🔗 Liens
-- 📂 **Code Source:** [Cliquez ici][(https://github.com/abaoulkhair5239-ai/Digital-Networking-Card)](https://aboulkhair5239-ai.github.io/Digital-Networking-Card/)
 
-
----
-*Projet réalisé pour le module de Développement Web.*
